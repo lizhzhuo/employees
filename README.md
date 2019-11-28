@@ -1,15 +1,15 @@
-## Introduction
+## 说明
 ```
-sample database employees for pgsql and mongo
+用于测试pgsql和mongo的数据库：employees
 
 ```
 
-## Employees Sample Database
+### MySQL官网
 ```
-https://dev.mysql.com/doc/employee/en/
+[Employees Sample Database](https://dev.mysql.com/doc/employee/en/)
 ```
 
-## A sample MySQL database:test_db
+### GitHub
 ```
-https://github.com/datacharmer/test_db
+[A sample MySQL database](https://github.com/datacharmer/test_db)
 ```
