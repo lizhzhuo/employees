@@ -6,10 +6,10 @@
 
 ### MySQL官网
 ```
-[Employees Sample Database](https://dev.mysql.com/doc/employee/en/)
+https://dev.mysql.com/doc/employee/en/
 ```
 
 ### GitHub
 ```
-[A sample MySQL database](https://github.com/datacharmer/test_db)
+https://github.com/datacharmer/test_db
 ```
